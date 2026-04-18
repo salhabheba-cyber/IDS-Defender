@@ -9,6 +9,33 @@ Network Intrusion Detection System using Snort 3 and Suricata.
 - SQL Injection Detection
 - PCAP Analysis
 
+## Objective
+Build an intrusion detection system using Snort/Suricata to detect and analyze network attacks in real-time.
+
+## Key Skills Demonstrated
+- Network traffic analysis with Snort/Suricata
+- Custom rule creation for threat detection
+- PCAP analysis and packet inspection
+- Attack simulation (SSH Brute Force, Port Scan, SQLi)
+
+
+## My Process
+1. **IDS Deployment**: Installed and configured Snort/Suricata on Kali
+2. **Rule Development**: Created custom detection rules for specific attacks
+3. **Attack Simulation**: Used Hydra, Nmap, and SQLmap to generate traffic
+4. **Alert Analysis**: Investigated alerts in console and log files
+
+## Tools Used
+- Snort, Suricata, Wireshark
+- Hydra, Nmap, SQLmap
+- Kali Linux
+
+## Key Takeaways
+- Custom rules improve detection accuracy
+- Understanding attack patterns is essential for defense
+- IDS/IPS is foundational for network security monitoring
+
+
 ## Quick Start
 
 ```bash
